@@ -1,0 +1,19 @@
+{
+  "name": "fontend-ranking",
+  "version": "1.0.0",
+  "description": "Fontend ranking of Tutorial School",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sozaadd/fontend-ranking.git"
+  },
+  "author": "Kriangkrai Prommaithong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sozaadd/fontend-ranking/issues"
+  },
+  "homepage": "https://github.com/sozaadd/fontend-ranking#readme"
+}
